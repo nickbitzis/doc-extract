@@ -33,7 +33,7 @@ class Invoice:
         return asdict(self)
 
     @classmethod
-    def from_dict(cls, d: dict) -> "Invoice":
+    def from_dict(cls, d: dict) -> Invoice:
         items = [LineItem(**{k: it[k] for k in ("description", "quantity", "unit_price", "amount")}) for it in d.get("line_items", [])]
         return cls(
             vendor_name=d["vendor_name"],

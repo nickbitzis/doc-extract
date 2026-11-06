@@ -39,14 +39,14 @@ def parse_date(s: str) -> str | None:
     return None
 
 
-def _find(pattern: str, text: str, flags=re.I) -> str | None:
+def _find(pattern: str, text: str, flags=re.IGNORECASE) -> str | None:
     m = re.search(pattern, text, flags)
     return m.group(1).strip() if m else None
 
 
 def extract(text: str) -> Invoice:
     first = text.strip().splitlines()[0]
-    vendor = _find(r"^(?:Thanks,|Regards,)\s*\n(.+)$", text, re.M) or first.strip("| ").split(" | ")[0]
+    vendor = _find(r"^(?:Thanks,|Regards,)\s*\n(.+)$", text, re.MULTILINE) or first.strip("| ").split(" | ")[0]
     number = _find(r"(?:Invoice No:|inv#|Invoice)\s+([A-Z#]*-?\d+)", text)
     dates = re.findall(DATE, text)
     issued = parse_date(dates[0]) if dates else None
@@ -56,13 +56,13 @@ def extract(text: str) -> Invoice:
     po = _find(r"\b(PO-\d+)", text, 0)
 
     items = []
-    for m in re.finditer(rf"^(.+?)\s+(\d+)\s+({NUM})\s+({NUM})\s*$", text, re.M):  # block layout
+    for m in re.finditer(rf"^(.+?)\s+(\d+)\s+({NUM})\s+({NUM})\s*$", text, re.MULTILINE):  # block layout
         items.append(LineItem(m[1].strip(), float(m[2]), parse_number(m[3]), parse_number(m[4])))
-    for m in re.finditer(rf"^- (.+?): (\d+) x \S?({NUM}) = \S?({NUM})", text, re.M):  # email
+    for m in re.finditer(rf"^- (.+?): (\d+) x \S?({NUM}) = \S?({NUM})", text, re.MULTILINE):  # email
         items.append(LineItem(m[1], float(m[2]), parse_number(m[3]), parse_number(m[4])))
-    for m in re.finditer(rf"^\| ([^|]+?) \| (\d+) \| ({NUM}) \| ({NUM}) \|", text, re.M):  # table
+    for m in re.finditer(rf"^\| ([^|]+?) \| (\d+) \| ({NUM}) \| ({NUM}) \|", text, re.MULTILINE):  # table
         items.append(LineItem(m[1], float(m[2]), parse_number(m[3]), parse_number(m[4])))
-    for m in re.finditer(rf"^(\d+) @ ({NUM})\s+(.+?)\s+({NUM})$", text, re.M):  # receipt
+    for m in re.finditer(rf"^(\d+) @ ({NUM})\s+(.+?)\s+({NUM})$", text, re.MULTILINE):  # receipt
         items.append(LineItem(m[3], float(m[1]), parse_number(m[2]), parse_number(m[4])))
 
     def money_after(label: str) -> float:

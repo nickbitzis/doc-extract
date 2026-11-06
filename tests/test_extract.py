@@ -6,7 +6,7 @@ import pytest
 
 from docextract import baseline, cli
 from docextract.claude import SYSTEM, ExtractionError, extract
-from docextract.data import HOLDOUT, KNOWN, generate, money, fmt_date
+from docextract.data import HOLDOUT, KNOWN, fmt_date, generate, money
 from docextract.evaluate import Report, field_correct, load_truth
 from docextract.schema import FIELDS, JSON_SCHEMA, Invoice, LineItem
 from docextract.validate import check
