@@ -1,0 +1,16 @@
+| Acorn Office Goods | Invoice A11114 |
+|---|---|
+| Issued | 19 Jun 2026 |
+| Due | On receipt |
+| Customer | Cobalt Dental Partners |
+| PO | n/a |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Strategy workshop, half day | 10 | 1,850.00 | 18,500.00 |
+| Ergonomic chair | 5 | 289.00 | 1,445.00 |
+| Pallet delivery | 5 | 220.00 | 1,100.00 |
+| Hydraulic hose fitting | 1 | 12.40 | 12.40 |
+| Subtotal | | | 21,057.40 |
+| Tax | | | 1,737.24 |
+| Total (USD) | | | 22,794.64 |

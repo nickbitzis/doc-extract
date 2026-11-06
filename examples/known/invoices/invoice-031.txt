@@ -1,0 +1,17 @@
+From: billing@harbor.example
+Subject: Invoice #11168 for Cobalt Dental Partners
+
+Hello Cobalt Dental Partners team,
+
+Please find our invoice #11168, dated 20.04.2026, for the following:
+
+- Standing desk frame: 1 x €349,00 = €349,00
+- Catered lunch, per person: 10 x €18,75 = €187,50
+- Toner cartridge, black: 1 x €89,00 = €89,00
+
+Subtotal €625,50, tax €125,10, for a total of €750,60 (EUR).
+Kindly pay by 05.05.2026.
+Reference your purchase order PO-7654 on the remittance.
+
+Thanks,
+Harbor & Pine Consulting

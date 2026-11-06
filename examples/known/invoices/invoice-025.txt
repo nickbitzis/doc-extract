@@ -1,0 +1,14 @@
+From: billing@harbor.example
+Subject: Invoice A10925 for Riverbend City Library
+
+Hello Riverbend City Library team,
+
+Please find our invoice A10925, dated 27.02.2026, for the following:
+
+- Hydraulic hose fitting: 5 x €12.40 = €62.00
+
+Subtotal €62.00, tax €12.40, for a total of €74.40 (EUR).
+Kindly pay by 13.04.2026.
+
+Thanks,
+Harbor & Pine Consulting

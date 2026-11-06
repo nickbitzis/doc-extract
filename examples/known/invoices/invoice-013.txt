@@ -1,0 +1,17 @@
+KESTREL CLOUD SERVICES
+
+INVOICE
+Invoice No: A10510
+Date: 2026-02-10
+Payment due: 2026-03-27
+Your PO: PO-8579
+
+Bill to:
+  Meridian Freight Corp.
+
+Description                            Qty        Unit      Amount
+Standing desk frame                     12      349.00    4,188.00
+
+                                              Subtotal    4,188.00
+                                                   Tax      345.51
+                                             TOTAL USD    4,533.51

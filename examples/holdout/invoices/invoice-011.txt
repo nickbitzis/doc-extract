@@ -1,0 +1,10 @@
+Northwind Supply Co.
+
+To the accounts team at Larkspur Software Ltd.:
+
+This letter is our invoice number #10421, issued on 04/07/2026. It covers 25 of monthly hosting plan at 480.00 each (12,000.00), 25 of on-site support, per hour at 135.00 each (3,375.00), 25 of printer paper, case of 10 reams at 42.50 each (1,062.50), 2 of pallet delivery at 220.00 each (440.00).
+
+Before tax the charges come to 16,877.50. Tax adds 1,392.39, so the amount payable is USD 18,279.89. Please settle it no later than 05/22/2026.
+
+Yours sincerely,
+Accounts Receivable

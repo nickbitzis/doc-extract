@@ -1,0 +1,16 @@
+| Acorn Office Goods | Invoice INV-10880 |
+|---|---|
+| Issued | 03/04/2026 |
+| Due | 04/18/2026 |
+| Customer | Meridian Freight Corp. |
+| PO | PO-7621 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Printer paper, case of 10 reams | 12 | 42.50 | 510.00 |
+| Hydraulic hose fitting | 1 | 12.40 | 12.40 |
+| Ergonomic chair | 25 | 289.00 | 7,225.00 |
+| Shipping labels, roll | 1 | 9.99 | 9.99 |
+| Subtotal | | | 7,757.39 |
+| Tax | | | 1,551.48 |
+| Total (GBP) | | | 9,308.87 |

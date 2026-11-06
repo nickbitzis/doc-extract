@@ -1,0 +1,16 @@
+| Kestrel Cloud Services | Invoice #11002 |
+|---|---|
+| Issued | 02/19/2026 |
+| Due | 03/06/2026 |
+| Customer | Meridian Freight Corp. |
+| PO | n/a |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Brochure printing, 500 units | 12 | 315.00 | 3,780.00 |
+| Hydraulic hose fitting | 1 | 12.40 | 12.40 |
+| On-site support, per hour | 1 | 135.00 | 135.00 |
+| Pallet delivery | 3 | 220.00 | 660.00 |
+| Subtotal | | | 4,587.40 |
+| Tax | | | 378.46 |
+| Total (USD) | | | 4,965.86 |

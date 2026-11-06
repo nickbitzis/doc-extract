@@ -1,0 +1,15 @@
+| Northwind Supply Co. | Invoice INV-10894 |
+|---|---|
+| Issued | June 27, 2026 |
+| Due | July 27, 2026 |
+| Customer | Larkspur Software Ltd. |
+| PO | PO-5654 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Toner cartridge, black | 1 | 89.00 | 89.00 |
+| Pallet delivery | 5 | 220.00 | 1,100.00 |
+| Brochure printing, 500 units | 2 | 315.00 | 630.00 |
+| Subtotal | | | 1,819.00 |
+| Tax | | | 150.07 |
+| Total (USD) | | | 1,969.07 |

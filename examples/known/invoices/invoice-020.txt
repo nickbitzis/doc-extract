@@ -1,0 +1,16 @@
+| Bluefin Logistics LLC | Invoice #10757 |
+|---|---|
+| Issued | 2026-09-19 |
+| Due | 2026-10-19 |
+| Customer | Cobalt Dental Partners |
+| PO | PO-1256 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Monthly hosting plan | 1 | 480.00 | 480.00 |
+| Shipping labels, roll | 3 | 9.99 | 29.97 |
+| Pallet delivery | 3 | 220.00 | 660.00 |
+| Toner cartridge, black | 12 | 89.00 | 1,068.00 |
+| Subtotal | | | 2,237.97 |
+| Tax | | | 447.59 |
+| Total (GBP) | | | 2,695.56 |

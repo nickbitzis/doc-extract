@@ -1,0 +1,16 @@
+From: billing@harbor.example
+Subject: Invoice 10198 for Riverbend City Library
+
+Hello Riverbend City Library team,
+
+Please find our invoice 10198, dated 2026-01-10, for the following:
+
+- Shipping labels, roll: 3 x $9.99 = $29.97
+- Hydraulic hose fitting: 25 x $12.40 = $310.00
+
+Subtotal $339.97, tax $28.05, for a total of $368.02 (USD).
+Kindly pay by 2026-02-09.
+Reference your purchase order PO-7893 on the remittance.
+
+Thanks,
+Harbor & Pine Consulting

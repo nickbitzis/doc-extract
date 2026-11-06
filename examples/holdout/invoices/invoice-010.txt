@@ -1,0 +1,14 @@
+doc_type=invoice
+seller=Marlowe Industrial Parts
+buyer=Riverbend City Library
+ref=10372
+issue_dt=24.02.2026
+due_dt=11.03.2026
+buyer_po=PO-2349
+ccy=EUR
+line.1=desc:Standing desk frame;qty:25;price:349,00;ext:8.725,00
+line.2=desc:Shipping labels, roll;qty:1;price:9,99;ext:9,99
+line.3=desc:Hydraulic hose fitting;qty:3;price:12,40;ext:37,20
+net=8.772,19
+tax=1.754,44
+gross=10.526,63

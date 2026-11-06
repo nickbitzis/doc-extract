@@ -1,0 +1,18 @@
+KESTREL CLOUD SERVICES
+
+INVOICE
+Invoice No: #10990
+Date: 10/03/2026
+Payment due: 11/17/2026
+Your PO: PO-4187
+
+Bill to:
+  Larkspur Software Ltd.
+
+Description                            Qty        Unit      Amount
+Pallet delivery                         10      220.00    2,200.00
+Shipping labels, roll                    2        9.99       19.98
+
+                                              Subtotal    2,219.98
+                                                   Tax      183.15
+                                             TOTAL USD    2,403.13

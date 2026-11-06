@@ -1,0 +1,16 @@
+BLUEFIN LOGISTICS LLC
+
+INVOICE
+Invoice No: A10469
+Date: 27 Jan 2026
+
+Bill to:
+  Trailhead Outfitters Inc.
+
+Description                            Qty        Unit      Amount
+Monthly hosting plan                     1      480.00      480.00
+Ergonomic chair                         25      289.00    7,225.00
+
+                                              Subtotal    7,705.00
+                                                   Tax    1,001.65
+                                             TOTAL CAD    8,706.65

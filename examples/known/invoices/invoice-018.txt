@@ -1,0 +1,13 @@
+| Kestrel Cloud Services | Invoice INV-10687 |
+|---|---|
+| Issued | 05/06/2026 |
+| Due | 05/21/2026 |
+| Customer | Larkspur Software Ltd. |
+| PO | PO-8784 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Catered lunch, per person | 1 | 18.75 | 18.75 |
+| Subtotal | | | 18.75 |
+| Tax | | | 1.55 |
+| Total (USD) | | | 20.30 |

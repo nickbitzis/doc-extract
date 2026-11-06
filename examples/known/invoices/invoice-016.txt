@@ -1,0 +1,9 @@
+Marlowe Industrial Parts
+inv# A10612  February 6, 2026
+billed Meridian Freight Corp.
+p.o. PO-6167
+25 @ 135.00  On-site support, per hour  3,375.00
+5 @ 89.00  Toner cartridge, black  445.00
+3 @ 18.75  Catered lunch, per person  56.25
+sub 3,876.25  tax 319.79
+amount due $4,206.04 USD

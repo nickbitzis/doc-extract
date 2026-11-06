@@ -1,0 +1,16 @@
+| Bluefin Logistics LLC | Invoice INV-11040 |
+|---|---|
+| Issued | 28.02.2026 |
+| Due | 14.04.2026 |
+| Customer | Riverbend City Library |
+| PO | PO-2584 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| On-site support, per hour | 3 | 135,00 | 405,00 |
+| Pallet delivery | 2 | 220,00 | 440,00 |
+| Ergonomic chair | 2 | 289,00 | 578,00 |
+| Toner cartridge, black | 5 | 89,00 | 445,00 |
+| Subtotal | | | 1.868,00 |
+| Tax | | | 373,60 |
+| Total (EUR) | | | 2.241,60 |

@@ -1,0 +1,16 @@
+From: billing@marlowe.example
+Subject: Invoice INV-10299 for Trailhead Outfitters Inc.
+
+Hello Trailhead Outfitters Inc. team,
+
+Please find our invoice INV-10299, dated 12 May 2026, for the following:
+
+- Shipping labels, roll: 25 x $9.99 = $249.75
+- Brochure printing, 500 units: 1 x $315.00 = $315.00
+
+Subtotal $564.75, tax $46.59, for a total of $611.34 (USD).
+Kindly pay by 27 May 2026.
+Reference your purchase order PO-5180 on the remittance.
+
+Thanks,
+Marlowe Industrial Parts

@@ -1,0 +1,15 @@
+doc_type=invoice
+seller=Acorn Office Goods
+buyer=Trailhead Outfitters Inc.
+ref=10247
+issue_dt=08.09.2026
+due_dt=23.09.2026
+buyer_po=PO-5055
+ccy=EUR
+line.1=desc:Hydraulic hose fitting;qty:3;price:12,40;ext:37,20
+line.2=desc:Monthly hosting plan;qty:1;price:480,00;ext:480,00
+line.3=desc:On-site support, per hour;qty:5;price:135,00;ext:675,00
+line.4=desc:Pallet delivery;qty:10;price:220,00;ext:2.200,00
+net=3.392,20
+tax=678,44
+gross=4.070,64

@@ -1,0 +1,14 @@
+BILLING STATEMENT  //  Acorn Office Goods
+customer ......... Cobalt Dental Partners
+document ......... #10789
+issued ........... 18 Aug 2026
+pay before ....... 17 Sep 2026
+order ref ........ PO-6813
+
+      AMOUNT  DETAIL
+    7,875.00  Brochure printing, 500 units (25 units, 315.00 per unit)
+      178.00  Toner cartridge, black (2 units, 89.00 per unit)
+       99.90  Shipping labels, roll (10 units, 9.99 per unit)
+    8,152.90  net
+    1,059.88  vat/sales tax
+    9,222.78  GRAND TOTAL, CAD

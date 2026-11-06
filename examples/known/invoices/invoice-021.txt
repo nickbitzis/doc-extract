@@ -1,0 +1,8 @@
+Marlowe Industrial Parts
+inv# INV-10782  08/08/2026
+billed Meridian Freight Corp.
+p.o. PO-3301
+1 @ 220.00  Pallet delivery  220.00
+sub 220.00  tax 18.15
+amount due $238.15 USD
+net terms, due 09/07/2026

@@ -1,0 +1,14 @@
+BILLING STATEMENT  //  Quarry Street Print Shop
+customer ......... Larkspur Software Ltd.
+document ......... A10287
+issued ........... January 17, 2026
+pay before ....... -
+order ref ........ PO-1753
+
+      AMOUNT  DETAIL
+      249.75  Shipping labels, roll (25 units, 9.99 per unit)
+    2,225.00  Toner cartridge, black (25 units, 89.00 per unit)
+    2,200.00  Pallet delivery (10 units, 220.00 per unit)
+    4,674.75  net
+      385.67  vat/sales tax
+    5,060.42  GRAND TOTAL, USD

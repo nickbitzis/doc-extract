@@ -1,0 +1,12 @@
+BILLING STATEMENT  //  Bluefin Logistics LLC
+customer ......... Riverbend City Library
+document ......... A10130
+issued ........... 29 Mar 2026
+pay before ....... -
+order ref ........ -
+
+      AMOUNT  DETAIL
+       24.80  Hydraulic hose fitting (2 units, 12.40 per unit)
+       24.80  net
+        4.96  vat/sales tax
+       29.76  GRAND TOTAL, GBP

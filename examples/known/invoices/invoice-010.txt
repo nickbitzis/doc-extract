@@ -1,0 +1,15 @@
+From: billing@kestrel.example
+Subject: Invoice 10398 for Riverbend City Library
+
+Hello Riverbend City Library team,
+
+Please find our invoice 10398, dated 21.08.2026, for the following:
+
+- Standing desk frame: 2 x €349.00 = €698.00
+- Monthly hosting plan: 1 x €480.00 = €480.00
+
+Subtotal €1,178.00, tax €235.60, for a total of €1,413.60 (EUR).
+Kindly pay by 05.09.2026.
+
+Thanks,
+Kestrel Cloud Services

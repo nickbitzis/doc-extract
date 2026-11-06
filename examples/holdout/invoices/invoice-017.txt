@@ -1,0 +1,12 @@
+BILLING STATEMENT  //  Marlowe Industrial Parts
+customer ......... Cobalt Dental Partners
+document ......... A10649
+issued ........... 2026-04-17
+pay before ....... 2026-06-01
+order ref ........ PO-7364
+
+      AMOUNT  DETAIL
+       19.98  Shipping labels, roll (2 units, 9.99 per unit)
+       19.98  net
+        4.00  vat/sales tax
+       23.98  GRAND TOTAL, GBP

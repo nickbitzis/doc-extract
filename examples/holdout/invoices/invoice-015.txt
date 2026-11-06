@@ -1,0 +1,15 @@
+BILLING STATEMENT  //  Northwind Supply Co.
+customer ......... Cobalt Dental Partners
+document ......... #10578
+issued ........... 05/19/2026
+pay before ....... 06/18/2026
+order ref ........ -
+
+      AMOUNT  DETAIL
+      945.00  Brochure printing, 500 units (3 units, 315.00 per unit)
+    1,445.00  Ergonomic chair (5 units, 289.00 per unit)
+      135.00  On-site support, per hour (1 units, 135.00 per unit)
+    9,250.00  Strategy workshop, half day (5 units, 1,850.00 per unit)
+   11,775.00  net
+    1,530.75  vat/sales tax
+   13,305.75  GRAND TOTAL, CAD

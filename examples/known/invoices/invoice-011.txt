@@ -1,0 +1,16 @@
+SAFFRON CATERING GROUP
+
+INVOICE
+Invoice No: INV-10430
+Date: 13 Jun 2026
+Your PO: PO-2186
+
+Bill to:
+  Cobalt Dental Partners
+
+Description                            Qty        Unit      Amount
+Strategy workshop, half day              1    1,850.00    1,850.00
+
+                                              Subtotal    1,850.00
+                                                   Tax      152.62
+                                             TOTAL USD    2,002.62

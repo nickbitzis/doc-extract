@@ -1,0 +1,19 @@
+QUARRY STREET PRINT SHOP
+
+INVOICE
+Invoice No: #10148
+Date: 01/05/2026
+Payment due: 01/20/2026
+
+Bill to:
+  Riverbend City Library
+
+Description                            Qty        Unit      Amount
+Brochure printing, 500 units             3      315.00      945.00
+Ergonomic chair                          5      289.00    1,445.00
+Shipping labels, roll                   10        9.99       99.90
+Toner cartridge, black                   1       89.00       89.00
+
+                                              Subtotal    2,578.90
+                                                   Tax      212.76
+                                             TOTAL USD    2,791.66

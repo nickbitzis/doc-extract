@@ -1,0 +1,13 @@
+doc_type=invoice
+seller=Saffron Catering Group
+buyer=Riverbend City Library
+ref=A10902
+issue_dt=03/08/2026
+due_dt=04/22/2026
+buyer_po=PO-5472
+ccy=CAD
+line.1=desc:Catered lunch, per person;qty:25;price:18.75;ext:468.75
+line.2=desc:Standing desk frame;qty:2;price:349.00;ext:698.00
+net=1,166.75
+tax=151.68
+gross=1,318.43

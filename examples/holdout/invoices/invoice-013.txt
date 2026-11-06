@@ -1,0 +1,12 @@
+doc_type=invoice
+seller=Kestrel Cloud Services
+buyer=Riverbend City Library
+ref=INV-10491
+issue_dt=28.09.2026
+due_dt=12.11.2026
+buyer_po=
+ccy=EUR
+line.1=desc:Toner cartridge, black;qty:5;price:89,00;ext:445,00
+net=445,00
+tax=89,00
+gross=534,00

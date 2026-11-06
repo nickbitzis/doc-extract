@@ -1,0 +1,13 @@
+BILLING STATEMENT  //  Marlowe Industrial Parts
+customer ......... Cobalt Dental Partners
+document ......... #10151
+issued ........... 01/20/2026
+pay before ....... 02/04/2026
+order ref ........ PO-6952
+
+      AMOUNT  DETAIL
+       99.90  Shipping labels, roll (10 units, 9.99 per unit)
+    3,490.00  Standing desk frame (10 units, 349.00 per unit)
+    3,589.90  net
+      717.98  vat/sales tax
+    4,317.88  GRAND TOTAL, GBP

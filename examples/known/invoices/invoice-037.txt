@@ -1,0 +1,20 @@
+QUARRY STREET PRINT SHOP
+
+INVOICE
+Invoice No: 11375
+Date: 2026-06-02
+Payment due: 2026-06-17
+Your PO: PO-4210
+
+Bill to:
+  Larkspur Software Ltd.
+
+Description                            Qty        Unit      Amount
+Toner cartridge, black                  10       89.00      890.00
+Hydraulic hose fitting                   5       12.40       62.00
+Standing desk frame                      5      349.00    1,745.00
+Shipping labels, roll                    3        9.99       29.97
+
+                                              Subtotal    2,726.97
+                                                   Tax      224.98
+                                             TOTAL USD    2,961.95

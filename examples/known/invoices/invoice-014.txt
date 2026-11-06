@@ -1,0 +1,15 @@
+From: billing@quarry.example
+Subject: Invoice INV-10529 for Cobalt Dental Partners
+
+Hello Cobalt Dental Partners team,
+
+Please find our invoice INV-10529, dated September 8, 2026, for the following:
+
+- Catered lunch, per person: 25 x $18.75 = $468.75
+
+Subtotal $468.75, tax $38.67, for a total of $507.42 (USD).
+Kindly pay by October 23, 2026.
+Reference your purchase order PO-4318 on the remittance.
+
+Thanks,
+Quarry Street Print Shop

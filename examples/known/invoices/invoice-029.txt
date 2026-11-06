@@ -1,0 +1,15 @@
+From: billing@marlowe.example
+Subject: Invoice A11084 for Cobalt Dental Partners
+
+Hello Cobalt Dental Partners team,
+
+Please find our invoice A11084, dated 2026-07-15, for the following:
+
+- Pallet delivery: 2 x $220.00 = $440.00
+
+Subtotal $440.00, tax $36.30, for a total of $476.30 (USD).
+Kindly pay by 2026-08-29.
+Reference your purchase order PO-4196 on the remittance.
+
+Thanks,
+Marlowe Industrial Parts

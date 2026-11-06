@@ -1,0 +1,16 @@
+From: billing@harbor.example
+Subject: Invoice INV-10716 for Riverbend City Library
+
+Hello Riverbend City Library team,
+
+Please find our invoice INV-10716, dated 05.10.2026, for the following:
+
+- Standing desk frame: 2 x €349.00 = €698.00
+- Monthly hosting plan: 12 x €480.00 = €5,760.00
+
+Subtotal €6,458.00, tax €1,291.60, for a total of €7,749.60 (EUR).
+Kindly pay by 20.10.2026.
+Reference your purchase order PO-8430 on the remittance.
+
+Thanks,
+Harbor & Pine Consulting

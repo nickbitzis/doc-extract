@@ -1,0 +1,9 @@
+Northwind Supply Co.
+inv# 11276  28 Jul 2026
+billed Trailhead Outfitters Inc.
+5 @ 18.75  Catered lunch, per person  93.75
+5 @ 9.99  Shipping labels, roll  49.95
+1 @ 349.00  Standing desk frame  349.00
+sub 492.70  tax 98.54
+amount due £601.24 GBP
+net terms, due 27 Aug 2026

@@ -1,0 +1,15 @@
+BILLING STATEMENT  //  Quarry Street Print Shop
+customer ......... Meridian Freight Corp.
+document ......... INV-10544
+issued ........... 14 Mar 2026
+pay before ....... 29 Mar 2026
+order ref ........ -
+
+      AMOUNT  DETAIL
+    5,760.00  Monthly hosting plan (12 units, 480.00 per unit)
+    3,490.00  Standing desk frame (10 units, 349.00 per unit)
+      630.00  Brochure printing, 500 units (2 units, 315.00 per unit)
+       19.98  Shipping labels, roll (2 units, 9.99 per unit)
+    9,899.98  net
+    1,980.00  vat/sales tax
+   11,879.98  GRAND TOTAL, GBP

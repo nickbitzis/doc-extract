@@ -1,0 +1,15 @@
+doc_type=invoice
+seller=Northwind Supply Co.
+buyer=Riverbend City Library
+ref=A10193
+issue_dt=21.01.2026
+due_dt=05.02.2026
+buyer_po=PO-1852
+ccy=EUR
+line.1=desc:Printer paper, case of 10 reams;qty:3;price:42,50;ext:127,50
+line.2=desc:Brochure printing, 500 units;qty:2;price:315,00;ext:630,00
+line.3=desc:Pallet delivery;qty:1;price:220,00;ext:220,00
+line.4=desc:Toner cartridge, black;qty:5;price:89,00;ext:445,00
+net=1.422,50
+tax=284,50
+gross=1.707,00

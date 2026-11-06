@@ -1,0 +1,9 @@
+Marlowe Industrial Parts
+inv# A11351  06.03.2026
+billed Cobalt Dental Partners
+10 @ 12.40  Hydraulic hose fitting  124.00
+25 @ 135.00  On-site support, per hour  3,375.00
+2 @ 89.00  Toner cartridge, black  178.00
+sub 3,677.00  tax 735.40
+amount due €4,412.40 EUR
+net terms, due 21.03.2026

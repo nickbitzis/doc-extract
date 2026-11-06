@@ -1,0 +1,15 @@
+doc_type=invoice
+seller=Harbor & Pine Consulting
+buyer=Larkspur Software Ltd.
+ref=#10742
+issue_dt=04/16/2026
+due_dt=05/16/2026
+buyer_po=PO-5366
+ccy=USD
+line.1=desc:Ergonomic chair;qty:10;price:289.00;ext:2,890.00
+line.2=desc:Monthly hosting plan;qty:12;price:480.00;ext:5,760.00
+line.3=desc:Brochure printing, 500 units;qty:25;price:315.00;ext:7,875.00
+line.4=desc:Shipping labels, roll;qty:10;price:9.99;ext:99.90
+net=16,624.90
+tax=1,371.55
+gross=17,996.45

@@ -1,0 +1,14 @@
+From: billing@saffron.example
+Subject: Invoice INV-10341 for Larkspur Software Ltd.
+
+Hello Larkspur Software Ltd. team,
+
+Please find our invoice INV-10341, dated 2026-09-13, for the following:
+
+- On-site support, per hour: 3 x £135.00 = £405.00
+
+Subtotal £405.00, tax £81.00, for a total of £496.00 (GBP).
+Kindly pay by 2026-09-28.
+
+Thanks,
+Saffron Catering Group

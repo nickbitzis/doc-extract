@@ -1,0 +1,15 @@
+From: billing@saffron.example
+Subject: Invoice 10277 for Riverbend City Library
+
+Hello Riverbend City Library team,
+
+Please find our invoice 10277, dated 02/11/2026, for the following:
+
+- Printer paper, case of 10 reams: 10 x €42,50 = €425,00
+- Strategy workshop, half day: 10 x €1.850,00 = €18.500,00
+
+Subtotal €18.925,00, tax €3.785,00, for a total of €22.710,00 (EUR).
+Kindly pay by 02/26/2026.
+
+Thanks,
+Saffron Catering Group

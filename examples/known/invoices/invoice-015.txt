@@ -1,0 +1,15 @@
+From: billing@harbor.example
+Subject: Invoice A10562 for Meridian Freight Corp.
+
+Hello Meridian Freight Corp. team,
+
+Please find our invoice A10562, dated 17.09.2026, for the following:
+
+- Brochure printing, 500 units: 3 x €315,00 = €945,00
+- Shipping labels, roll: 12 x €9,99 = €119,88
+- Standing desk frame: 3 x €349,00 = €1.047,00
+
+Subtotal €2.111,88, tax €422,38, for a total of €2.534,26 (EUR).
+
+Thanks,
+Harbor & Pine Consulting

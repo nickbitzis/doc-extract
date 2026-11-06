@@ -1,0 +1,16 @@
+| Quarry Street Print Shop | Invoice A10841 |
+|---|---|
+| Issued | 27 Sep 2026 |
+| Due | 11 Nov 2026 |
+| Customer | Meridian Freight Corp. |
+| PO | PO-3312 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Catered lunch, per person | 25 | 18.75 | 468.75 |
+| Strategy workshop, half day | 5 | 1,850.00 | 9,250.00 |
+| Toner cartridge, black | 2 | 89.00 | 178.00 |
+| Pallet delivery | 5 | 220.00 | 1,100.00 |
+| Subtotal | | | 10,996.75 |
+| Tax | | | 1,429.58 |
+| Total (CAD) | | | 12,426.33 |

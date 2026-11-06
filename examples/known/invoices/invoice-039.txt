@@ -1,0 +1,13 @@
+| Harbor & Pine Consulting | Invoice A11456 |
+|---|---|
+| Issued | 06/29/2026 |
+| Due | 07/14/2026 |
+| Customer | Cobalt Dental Partners |
+| PO | PO-3468 |
+
+| Item | Qty | Price | Line total |
+|---|---:|---:|---:|
+| Toner cartridge, black | 25 | 89.00 | 2,225.00 |
+| Subtotal | | | 2,225.00 |
+| Tax | | | 183.56 |
+| Total (USD) | | | 2,408.56 |

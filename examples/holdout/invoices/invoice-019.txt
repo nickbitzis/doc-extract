@@ -1,0 +1,15 @@
+BILLING STATEMENT  //  Bluefin Logistics LLC
+customer ......... Cobalt Dental Partners
+document ......... #10704
+issued ........... 01/19/2026
+pay before ....... 03/05/2026
+order ref ........ PO-3006
+
+      AMOUNT  DETAIL
+      119.88  Shipping labels, roll (12 units, 9.99 per unit)
+    2,200.00  Pallet delivery (10 units, 220.00 per unit)
+       56.25  Catered lunch, per person (3 units, 18.75 per unit)
+    5,760.00  Monthly hosting plan (12 units, 480.00 per unit)
+    8,136.13  net
+    1,057.70  vat/sales tax
+    9,193.83  GRAND TOTAL, CAD
